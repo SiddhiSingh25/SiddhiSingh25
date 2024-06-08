@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack f
 ## 🌟 Top Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddhiSingh25&repo=Pflo)](https://github.com/SiddhiSingh25/Pflo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddhiSingh25&repo=repository-name)](https://github.com/SiddhiSingh25/Animated-web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddhiSingh25&repo=Siddhi_World)](https://github.com/SiddhiSingh25/Siddhi_World)
 
 ## 📫 Connect with Me
 
@@ -43,7 +43,6 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack f
 
 ---
 
-*This README was generated with ❤️ by [Siddhi Singh](https://github.com/SiddhiSingh25)*
 
 <!---
 SiddhiSingh25/SiddhiSingh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
