@@ -32,18 +32,18 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack f
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name)](https://github.com/yourusername/repository-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-name)](https://github.com/yourusername/repository-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddhiSingh25&repo=repository-name)](https://github.com/SiddhiSingh25/Siddhi_World)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddhiSingh25&repo=repository-name)](https://github.com/SiddhiSingh25/Animated-web)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/siddhi-singh07/)
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)](https://instagram.com/siddhyy_here/)
+[![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome)](https://siddhisingh.netlify.app/)
 
 ---
 
-*This README was generated with ❤️ by [Your Name](https://github.com/yourusername)*
+*This README was generated with ❤️ by [Siddhi Singh](https://github.com/SiddhiSingh25)*
 
 <!---
 SiddhiSingh25/SiddhiSingh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
