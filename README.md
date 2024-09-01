@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a knack f
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on A Welding Shop Project
+- 🔭 I’m currently working on something big that I reveals in OCT 2024.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Frontend Projects.
 - 💬 Ask me about Frontend Technologies.
