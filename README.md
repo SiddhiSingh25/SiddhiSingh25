@@ -1,6 +1,6 @@
 <!-- Header with dynamic typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Siddhi+Singh!+👋;React+Native+Developer;Open+Source+Enthusiast;Creative+Crazy+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Siddhi+Singh!+👋;React+Native+Developer;Open+Source+Enthusiast;Creative+Crazy+Coder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
